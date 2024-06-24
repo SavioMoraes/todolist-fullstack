@@ -2,7 +2,7 @@
   "name": "todo-list-fullstack",
   "version": "1.0.0",
   "description": "## Para funcionar o aplicativo, tem que entrar no diretório backend e rodar o npm start.",
-  "main": "frontend/src/index.html",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
